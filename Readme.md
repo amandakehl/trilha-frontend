@@ -1,15 +1,21 @@
-# Trilha Angular - front-end 
+# **Trilha Angular - Front-end** 
 
-## Sobre o projeto
+## **Sobre o projeto**
 Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos web com foco no framework Angular. 
 
-## Tabela de conteúdo:
+<br />
+
+## **Tabela de conteúdo**
 <!--ts-->
    * [Sobre o projeto](#sobre-o-projeto)
    * [Desafios](#desafios)
+   * [Como baixar o projeto](#como-baixar-o-projeto)
    * [Autora](#autora)
 <!--te-->
-### Desafios:
+<br />
+
+
+## **Desafios**
 
 1: GIT
 
@@ -33,7 +39,27 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 
 9: Desafio final 
 
-## Autora
+<br />
+
+## **Como baixar o projeto**
+
+```bash
+    # Para clonar o repositório 
+    $ git clone https://github.com/your-username/trilhaFrontEnd 
+
+    # Entrar no diretório 
+    $ cd trilhaFrontEnd
+
+    # Instalar as dependências 
+    $ npm install 
+
+    # Iniciar o projeto 
+    $ npm start
+```
+
+<br />
+
+## **Autora**
 
 <a href="https://github.com/akfarias">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/73315527?v=4" width="100px;" alt=""/>
