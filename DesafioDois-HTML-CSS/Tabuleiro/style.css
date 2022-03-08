@@ -1,0 +1,321 @@
+html, body, h1 {
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+.header {
+    padding: 20px;
+}
+
+/* Titles */
+
+.boardTitle {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.divTitle {
+    position:absolute;
+    margin-left: 2rem;
+}
+
+.tableTitle {
+    position:absolute;
+    margin-left: 32rem;
+} 
+
+/* Boards */
+
+.boards {
+    padding: 20px;
+}
+
+.div {
+    position: relative;
+    margin-left: 0;
+}
+
+.table {
+    position: relative;
+    margin-left: 30rem;
+}
+
+/* DIV */
+
+/* Div First Line */
+
+.OneA {
+    position: fixed;
+    margin-left: 0;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.OneB {
+    position: fixed;
+    margin-left: 6.5rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+.OneC {
+    position: fixed;
+    margin-left: 13rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.OneD {
+    position: fixed;
+    margin-left: 19.5rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+/* Div Second Line */
+
+.TwoA {
+    position: fixed;
+    margin-left: 0;
+    margin-top: 6.5rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+.TwoB {
+    position: fixed;
+    margin-left: 6.5rem;
+    margin-top: 6.5rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.TwoC {
+    position: fixed;
+    margin-left: 13rem;
+    margin-top: 6.5rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+.TwoD {
+    position: fixed;
+    margin-left: 19.5rem;
+    margin-top: 6.5rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+/* Div Third Line */
+
+.ThreeA {
+    position: fixed;
+    margin-left: 0;
+    margin-top: 13rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.ThreeB {
+    position: fixed;
+    margin-left: 6.5rem;
+    margin-top: 13rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+.ThreeC {
+    position: fixed;
+    margin-left: 13rem;
+    margin-top: 13rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.ThreeD {
+    position: fixed;
+    margin-left: 19.5rem;
+    margin-top: 13rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+/* Div Fourth Line */
+
+.FourA {
+    position: fixed;
+    margin-left: 0;
+    margin-top: 19.5rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+.FourB {
+    position: fixed;
+    margin-left: 6.5rem;
+    margin-top: 19.5rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.FourC {
+    position: fixed;
+    margin-left: 13rem;
+    margin-top: 19.5rem;
+    border: 50px solid;
+    color: #CCC;
+}
+
+.FourD {
+    border: 50px solid;
+    position: fixed;
+    margin-left: 19.5rem;
+    margin-top: 19.5rem;
+    
+    background-color: #000;
+}
+
+/* TABLE */
+
+/* Table First Line */
+
+.FiveA {
+    position: fixed;
+    margin-left: 0;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.FiveB {
+    position: fixed;
+    margin-left: 6.6rem;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+.FiveC {
+    position: fixed;
+    margin-left: 13.2rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.FiveD {
+    position: fixed;
+    margin-left: 19.8rem;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+/* Table Second Line */
+
+.SixA {
+    position: fixed;
+    margin-top: 6.5rem;
+    margin-left: 0;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+.SixB {
+    position: fixed;
+    margin-top: 6.5rem;
+    margin-left: 6.6rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.SixC {
+    position: fixed;
+    margin-top: 6.5rem;
+    margin-left: 13.2rem;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+.SixD {
+    position: fixed;
+    margin-top: 6.5rem;
+    margin-left: 19.8rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+/* Table Third Line */
+
+.SevenA {
+    position: fixed;
+    margin-top: 13rem;
+    margin-left: 0;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.SevenB {
+    position: fixed;
+    margin-top: 13rem;
+    margin-left: 6.6rem;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+.SevenC {
+    position: fixed;
+    margin-top: 13rem;
+    margin-left: 13.2rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.SevenD {
+    position: fixed;
+    margin-top: 13rem;
+    margin-left: 19.8rem;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+/* Table Fourth Line */
+
+.EightA {
+    position: fixed;
+    margin-top: 19.5rem;
+    margin-left: 0;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+.EightB {
+    position: fixed;
+    margin-top: 19.5rem;
+    margin-left: 6.6rem;
+    border: 50px solid;
+    background-color: #000;
+}
+
+.EightC {
+    position: fixed;
+    margin-top: 19.5rem;
+    margin-left: 13.2rem;
+    border: 50px solid;
+    color: #CCC;
+    background-color: #CCC;
+}
+
+.EightD {
+    position: fixed;
+    margin-top: 19.5rem;
+    margin-left: 19.8rem;
+    border: 50px solid;
+    background-color: #000;
+}

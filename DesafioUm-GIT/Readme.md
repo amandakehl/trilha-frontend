@@ -1,5 +1,11 @@
 # **Desafio GIT** 
 
+## **Sobre o desafio**
+Neste desafio é estudado conceitos de versionamento, suas vantagens e funcionamento. 
+
+## **Perguntas**
+<br />
+
 **A)** Com suas palavras defina o que é um sistema de controle de versões (VCS): 
 <br />
  Sistema de controle de versão é uma ferramenta utilizada para gerenciar as alterações feitas no código conforme o decorrer do projeto, sendo sua principal função armazenar o histórico de desenvolvimento. Através do histórico é possível visualizar as versões da aplicação, onde cada versão exibe o que foi alterado, por quem e quando foi alterado, sendo as alterações feitas pelos integrantes das equipes de desenvolvimento. Na equipe, são criadas áreas de trabalho distintas fazendo com que cada desenvolvedor trabalhe simultaneamente na mesma aplicação através das ramificações e assim, não afetando o trabalho do colega. Como são criadas ramificações, é necessário mescla-lás na develop, assim possibilitando a conferência de erros e conflitos para que a aplicação funcione perfeitamente. 
