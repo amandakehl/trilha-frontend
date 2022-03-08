@@ -14,19 +14,19 @@ O foco deste desafio é HTML semântico, focando nos principais conceitos e visa
 
 ## HTML semântico
 Aplicação feita utilizando apenas HTML semântico. 
-<center><img src="https://user-images.githubusercontent.com/73315527/157128261-b8cfdceb-9168-4b7c-a9f9-0b58fe128e6c.png" width = "95%" ></center>
+<img src="https://user-images.githubusercontent.com/73315527/157128261-b8cfdceb-9168-4b7c-a9f9-0b58fe128e6c.png">
 
 <br />
 
 ## Acessibilidade 
 Com base na criação anterior, foi utilizado HTML buscando acessibilidade. 
-<center><img src="https://user-images.githubusercontent.com/73315527/157128212-f134f415-a9a7-4898-9228-aa65df58b052.png"width = "95%" ></center>
+<img src="https://user-images.githubusercontent.com/73315527/157128212-f134f415-a9a7-4898-9228-aa65df58b052.png">
 
 <br />
 
 ## CSS
 Dois tabuleiros feitos com HTML e CSS puros. Um dos tabuleiros foi estruturado apenas com a tag div e o outro com a tag table. 
-<center><img src="https://user-images.githubusercontent.com/73315527/157151062-e129b4c5-c6d7-408d-a947-a10f1799d78a.png"width = "95%" ></center>
+<img src="https://user-images.githubusercontent.com/73315527/157151062-e129b4c5-c6d7-408d-a947-a10f1799d78a.png">
 
 <br />
 
