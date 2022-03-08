@@ -3,8 +3,9 @@
 ## **Sobre o desafio**
 Neste desafio é estudado conceitos de versionamento, suas vantagens e funcionamento. 
 
-## **Perguntas**
 <br />
+
+## **Perguntas**
 
 **A)** Com suas palavras defina o que é um sistema de controle de versões (VCS): 
 <br />

@@ -3,8 +3,6 @@
 ## **Sobre o projeto**
 Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos web com foco no framework Angular. 
 
-<br />
-
 ## **Tabela de conteúdo**
 <!--ts-->
    * [Sobre o projeto](#sobre-o-projeto)
@@ -12,14 +10,12 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
    * [Como baixar o projeto](#como-baixar-o-projeto)
    * [Autora](#autora)
 <!--te-->
-<br />
-
 
 ## **Desafios**
 
-1: GIT
+1: [GIT](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioUm-GIT)
 
-2: HTML, CSS e JS
+2: [HTML, CSS e JS](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioDois-HTML-CSS)
 
 3: Layout flexível com grid e flexbox
 
@@ -38,8 +34,6 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 8: Integração do desafio com o Cloud 
 
 9: Desafio final 
-
-<br />
 
 ## **Como baixar o projeto**
 
