@@ -1,0 +1,32 @@
+.menu-header {
+    border: 1px solid;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu-items a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    font-size: 16px;   
+    margin: 0 0.8rem; 
+}
+
+.menu-items ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-items nav {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+    list-style: none;
+}
