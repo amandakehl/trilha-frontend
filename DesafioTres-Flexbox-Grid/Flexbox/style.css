@@ -5,11 +5,6 @@
     justify-content: space-between;
 }
 
-.logo {
-    display: flex;
-    justify-content: space-evenly;
-}
-
 .menu-items a {
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
@@ -27,6 +22,4 @@
 .menu-items nav {
     display: flex;
     justify-content: flex-end;
-    justify-content: space-around;
-    list-style: none;
 }
