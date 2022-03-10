@@ -21,7 +21,7 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 
 2: [HTML, CSS e JS](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioDois-HTML-CSS)
 
-3: Layout flexível com grid e flexbox
+3: [Layout flexível com grid e flexbox](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioTres-Flexbox-Grid)
 
 4: Start em um projeto 
 
