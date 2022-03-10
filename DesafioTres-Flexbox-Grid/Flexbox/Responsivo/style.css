@@ -38,16 +38,15 @@
 @media screen and (max-width: 600px) {
     .container {
         display: flex;
-        flex-grow: 1;
-        justify-content: space-between;
+        justify-content: right;
+        justify-content:space-around;
     }
 
     .button {
         border: none;
         background-color: #FFF;
-        display: inline;
+        display: flex;
         align-items: center;
-        justify-content: flex-end;
     }
 
     .menu ul {
@@ -55,7 +54,7 @@
         align-items: center;
         position: absolute;
         top: 3.5rem;
-        right: 1.5vw;
+        right: 33vw;
         border: 1px solid;
         padding: 0.5rem;
     }
