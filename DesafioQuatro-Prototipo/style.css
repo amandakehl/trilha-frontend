@@ -1,0 +1,136 @@
+:root {
+	--pink: #F0CAFB;
+	--blue: #304B80;
+    --gray: #B7B6BF;
+    --gray-light: #b8b8b9;
+    --white: #FFFFFF;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, a, img, ol, ul, li,
+fieldset, form, label,
+figure, footer, header, 
+menu, nav, section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+/* .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+} */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    color: var(--pink); 
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.list-header {
+    list-style: none;
+    display: inline;
+} 
+
+.list-header li {
+    display: inline-block;
+}
+
+.list-header a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--gray);
+    margin: 20px;
+}
+
+.list-header a:hover {
+    color: var(--blue);
+}
+
+.button-login {
+    background-color: var(--white);
+    padding: 8px 15px;
+    color: var(--blue);
+    border: 1px solid;
+    border-radius: 8px;
+    border-bottom-width: 4px;
+    border-color: var(--blue);
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+} 
+
+.button-login:hover {
+    background-color: var(--pink);
+    border-width: 2px;
+    border: 1px solid;
+    border-color: var(--pink);
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+
+.span-questions {
+    color: var(--blue);
+    font-size: 36px;
+    font-weight: 1000;
+    font-family: serif;
+}
+
+.span-contact {
+    color: var(--blue);
+    font-size: 32px;
+    font-weight:normal;
+    font-family: serif;
+    font-style:italic;
+}
+
+input {
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: var(--gray);
+    padding: 10px;
+}
+
+.button-send {
+    background-color: var(--pink);
+    padding: 10px 26px;
+    color: var(--blue);
+    border: 1px solid;
+    border-color: var(--pink);
+    border-radius: 8px;
+    border-bottom-width: 4px;
+    border-bottom-color: var(--blue);    
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+} 
+
+.button-send:hover {
+    background-color: var(--pink);
+    border-width: 2px;
+    border: 1px solid;
+    border-color: var(--pink);
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+
+::placeholder {
+    color: var(--gray-light);
+}
+
+.img-boy {
+    width: 80%;
+    margin: 0;
+}
