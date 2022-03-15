@@ -10,44 +10,48 @@
 </head>
 
 <body>
-    <div class="container">
-        <header class="header">
-            <div class="logo">
-                <p>Logotype</p>
-            </div>
-            <nav>
-                <ul class="list-header">
-                    <li><a href="https://www.google.com.br/">Home</a></li>
-                    <li><a href="https://www.google.com.br/">Products</a></li>
-                    <li><a href="https://www.google.com.br/">Download</a></li>
-                    <li><a href="https://www.google.com.br/">Store</a></li>
-                    <li><a href="https://www.google.com.br/">Contact Us</a></li>
-                </ul>
-                <button class="button-login">Log in</button>
-            </nav>
-        </header>
+    <header class="header">
+        <div class="logo">
+            <p>Logotype</p>
+        </div>
+        <button class="hamburger-button">
+            <img id="hamburger" alt="menu" src="https://img.icons8.com/android/24/000000/menu.png">
+        </button>
+        <nav>
+            <ul class="list-header">
+                <li><a href="https://www.google.com.br/">Home</a></li>
+                <li><a href="https://www.google.com.br/">Products</a></li>
+                <li><a href="https://www.google.com.br/">Download</a></li>
+                <li><a href="https://www.google.com.br/">Store</a></li>
+                <li><a href="https://www.google.com.br/">Contact Us</a></li>
+            </ul>
+            <button class="login-button">Log in</button>
+        </nav>
+    </header>
+    <main class="principal">
         <section class="section">
             <span class="span-questions">Questions?</span>
             <br />
             <span class="span-contact">Contact us <span role="img" aria-label="smile">:)</span></span>
             <form class="form">
-                <input type="text" placeholder="Nome" name="nome" id="nome" required>
-                <input type="email" placeholder="Email" name="email" id="email" required>
-                <input type="tel" placeholder="Subject" name="number" id="number" mask="0000-00000" required>
-                <input type="message" placeholder="Message" name="message" id="message" required>
-                <input class="button-send" type="submit" value="Send">
+                <fieldset>
+                    <input type="text" placeholder="Name" name="nome" class="text" required>
+                    <input type="email" placeholder="Email" name="email" class="text" required>
+                    <input type="text" placeholder="Subject" name="subject" class="subject" required>
+                    <input type="text" placeholder="Message" name="message" class="message" required>
+                    <button type="submit" class="send-button">Send</button>
+                </fieldset>
             </form>
         </section>
         <figure>
-            <img class="img-boy"
+            <img class="img-boy" alt="Imagem de garoto com um avião de papel"
                 src="https://user-images.githubusercontent.com/73315527/157797721-8d45174f-ce13-46b5-855a-820d4e59620b.jpg">
         </figure>
+    </main>
 
-    </div>
-
-    <!-- <script src="https://code.jquery.com/jquery-3.6.0.js"
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
         integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
-    <script src="script.js" type="text/javascript"></script> -->
+    <script src="script.js" type="text/javascript"></script>
 </body>
 
 </html>
