@@ -23,7 +23,7 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 
 3: [Layout flexível com grid e flexbox](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioTres-Flexbox-Grid)
 
-4: Start em um projeto 
+4: [Start em um projeto - Protótipo](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioQuatro-Prototipo) 
 
 5.1: Angular
 

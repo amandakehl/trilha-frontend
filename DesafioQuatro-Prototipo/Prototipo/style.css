@@ -77,22 +77,30 @@ menu, nav, section {
 
 .login-button:hover {
     background-color: var(--pink);
+    border-bottom-width: 4px;
     border-color: var(--pink);
+    border-bottom-color: var(--blue);
     transform: scale(1.0);
     transition: all 0.2s;
     cursor: pointer;
 }
 
+/* Section */
+
 .principal {
     display: flex;
     justify-content:space-evenly;
-
 }
-
-/* Central Span */
 
 .section {
     margin-left: 60px;
+}
+
+/* Spans */
+
+.spans {
+    display: flex;
+    flex-direction: column;
 }
 
 .span-questions {
@@ -162,14 +170,13 @@ input {
 
 .send-button:hover {
     background-color: var(--pink);
+    border-bottom-width: 4px;
     border-color: var(--pink);
-    transform: scale(1.0);
-    transition: all 0.2s;
+    border-bottom-color: var(--blue);
     cursor: pointer;
 }
 
-
-/* Image */
+/* Images */
 
 .img-boy {
     display: flex;
@@ -183,7 +190,6 @@ input {
 }
 
 @media screen and (max-width: 1124px) {
-
     .principal {
         align-items: flex-end;
     }
@@ -233,20 +239,20 @@ input {
         padding: 10px 204px 80px 10px;
     }
 
+    .send-button {
+        margin-bottom: 40px;
+    }
+
     .img-boy {
         display: inline;
         width: 100%;
         margin-bottom: 0;
         align-items: center;
     }
-
-    .send-button {
-        margin-bottom: 40px;
-    }
+    
 }
 
-@media screen and (max-width: 600px) {
-    
+@media screen and (max-width: 600px) {    
     .img-boy {
         display: none;
     }
