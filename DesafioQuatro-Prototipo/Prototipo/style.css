@@ -23,17 +23,18 @@ menu, nav, section {
 /* Header */
 
 .header {
-    margin: 16px 60px 32px 60px;
+    margin: 1% 6% 2% 4%;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    max-width: 100vw;
 }
 
 .logo {
     margin-top: 0;
     color: var(--pink); 
     font-family: sans-serif;
-    font-size: 30px;
+    font-size: 2em;
     font-weight: 800;
 }
 
@@ -49,7 +50,7 @@ menu, nav, section {
 .list-header a {
     text-decoration: none;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 1em;
     font-weight: 400;
     color: var(--gray);
     margin: 25px;
@@ -71,7 +72,7 @@ menu, nav, section {
     border-bottom-width: 4px;
     border-color: var(--blue);
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 1em;
     font-weight: 600;
 } 
 
@@ -89,11 +90,11 @@ menu, nav, section {
 
 .principal {
     display: flex;
-    justify-content:space-evenly;
+    justify-content:space-between;
 }
 
 .section {
-    margin-left: 60px;
+    margin-left: 4%;
 }
 
 /* Spans */
@@ -105,14 +106,14 @@ menu, nav, section {
 
 .span-questions {
     color: var(--blue);
-    font-size: 78px;
+    font-size: 4em;
     font-weight: 900;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .span-contact {
     color: var(--blue);
-    font-size: 68px;
+    font-size: 3.5em;
     font-weight: 500;
     font-family: serif;
     font-style: italic;
@@ -134,17 +135,17 @@ input {
     border-radius: 8px;
     border: 1px solid;
     border-color: var(--gray);
-    padding: 10px;
+    padding: 2% 2% 2% 2%;
     margin: 4px;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
 }
 
 .subject {
-    padding: 10px 208.5px 10px 10px;
+    padding: 2% 50% 2% 2%;
 }
 
 .message {
-    padding: 10px 208.5px 80px 10px;
+    padding: 2% 50% 20% 2%;
 }
 
 ::placeholder {
@@ -162,7 +163,7 @@ input {
     border-bottom-width: 5px;
     border-color: var(--blue);  
     font-family: sans-serif;
-    font-size: 22px;
+    font-size: 1em;
     font-weight: 800;
     display: flex;
     margin: 20px 0 0 4px;  
@@ -189,9 +190,16 @@ input {
     display: none;
 }
 
+@media screen and (max-width: 1455px) {
+    .text {
+        padding: 2% 50% 2% 2%; 
+    }
+}
+
 @media screen and (max-width: 1124px) {
     .principal {
         align-items: flex-end;
+        justify-content: space-between;
     }
 
     .hamburger-button {
@@ -228,15 +236,15 @@ input {
     }
     
     .text {
-        padding: 10px 204px 10px 10px;        
+        padding: 2% 50% 2% 5%; 
     }
 
     .subject {
-        padding: 10px 204px 10px 10px;
+        padding: 2% 50% 2% 5%;
     }
     
     .message {
-        padding: 10px 204px 80px 10px;
+        padding: 2% 50% 20% 5%;
     }
 
     .send-button {
@@ -245,14 +253,12 @@ input {
 
     .img-boy {
         display: inline;
-        width: 100%;
-        margin-bottom: 0;
-        align-items: center;
+        margin-right: 0;
+        justify-content: space-between;
     }
-    
 }
 
-@media screen and (max-width: 600px) {    
+@media screen and (max-width: 684px) {    
     .img-boy {
         display: none;
     }

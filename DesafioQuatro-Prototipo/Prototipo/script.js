@@ -1,7 +1,13 @@
 $(document).ready(function () {
-    $("#hamburger").click(function () {
-        $(".list-header").toggle()
-    })
+    if ($(document).innerWidth() < 1080) {
+        $(".list-header").css("display", "none")
+        $("#hamburger").click(function () {
+            $(".list-header").toggle()
+        });
+    } else {
+        $(".list-header").css("display", "inline");
+    }
+    
 });
 
 $(window).resize(function () {

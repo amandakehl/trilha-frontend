@@ -13,3 +13,4 @@ O protótipo escolhido para desenvolvimento foi feito visando a total semelhanç
 
 ## Responsividade 
 <img src="https://user-images.githubusercontent.com/73315527/158288448-c09443b5-7892-413e-9662-f57cb5bddab6.png">
+<img src="https://user-images.githubusercontent.com/73315527/158907722-3169fd39-d4ee-46f9-a0ab-352cf2ab812b.png">
