@@ -25,13 +25,13 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 
 4: [Start em um projeto - Protótipo](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioQuatro-Prototipo) 
 
-5.1: [Angular: Parte Um](https://github.com/amandakehl/trilhaFrontEndAngular)
+5.1: [Angular I: SPA, Interpolation, Bindings, Diretivas e Forms](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioCinco-Angular/DesafioCinco-Um)
 
-5.2: Componentes e rotas
+5.2: [Angular II: Componentes, Rotas e Pipes](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioCinco-Angular/DesafioCinco-Dois)
 
-5.3: Back-end + angular 
+5.3: Angular III: Back-end + Angular 
 
-6: Protótipo criado em Angular
+6: Protótipo criado com Angular
 
 7: Design System
 
