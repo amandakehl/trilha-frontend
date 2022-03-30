@@ -18,7 +18,7 @@ O objetivo do desafio 5.3 é aprimorar os conhecimentos relacionados aos service
 
 
 # **Perguntas**
-Você pode conferir as perguntas respondidas referente a segunda parte de Angular no [Notion](https://tremendous-cinema-114.notion.site/5-3-Angular-Servi-os-9e1a21f42d5445a6938033e51e5a33a2)! 😁
+Você pode conferir as perguntas respondidas referente a terceira parte de Angular no [Notion](https://tremendous-cinema-114.notion.site/5-3-Angular-Servi-os-9e1a21f42d5445a6938033e51e5a33a2)! 😁
 
 <br />
 
