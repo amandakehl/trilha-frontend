@@ -31,7 +31,7 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 
 5.3: [Angular III: Services, HTTP e RxJS](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioCinco-Angular/DesafioCinco-Tres)
 
-6: Protótipo criado com Angular
+6: [Protótipo criado com Angular](https://github.com/amandakehl/landing-page-angular)
 
 7: Design System
 
