@@ -37,7 +37,7 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 
 8: [Integração do desafio com a AWS](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioOito-Integracao)
 
-9: Desafio final 
+9: [Desafio Final](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioNove-Final)
 
 <br />
 
