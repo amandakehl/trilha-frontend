@@ -45,7 +45,7 @@ Trilha baseada em desafios para aperfeiçoamento e aprendizagem de conteúdos we
 
 ```bash
     # Para clonar o repositório 
-    $ git clone https://github.com/your-username/trilhaFrontEnd 
+    $ git clone https://github.com/amandakehl/trilhaFrontEnd
 
     # Entrar no diretório 
     $ cd trilhaFrontEnd
